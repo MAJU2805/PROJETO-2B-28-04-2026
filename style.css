@@ -13,14 +13,16 @@ img {
 }
 
 main {
-    display: inline;
+    display: flex;
 }
 
 a {
     width: 280px;
     height:279px;    
     background-color: #22D4FD;
+    border-radius: 16px;
 }
+
 
 
 
